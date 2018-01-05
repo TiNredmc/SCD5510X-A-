@@ -7,5 +7,5 @@ On an Uno:
 Pin 13 - SDCLK
 Pin 11 - DATA
 Pin 10 - LOAD
-Pin 13 - 5v
+Pin 13 (on display) - 5v
 ```
